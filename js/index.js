@@ -1,11 +1,11 @@
 //Editar//-------------------------------------------------------------------------------------------------------------------------------
-var CantidadEscenas = 27
-var CantidadEnlacesMenu = 7
-var CantidadAdicional = 2
-var AnchoEscena = 1920
-var AltoEscena = 1080
-var TieneIndicador = true
-var UsarPrecarga = false
+var CantidadEscenas     =   15
+var CantidadEnlacesMenu =   7
+var CantidadAdicional   =   2
+var AnchoEscena         =   1920
+var AltoEscena          =   1080
+var TieneIndicador      =   true
+var UsarPrecarga        =   false
 var tiemposesion
 var segundos = '00'
 var minutos = '00'

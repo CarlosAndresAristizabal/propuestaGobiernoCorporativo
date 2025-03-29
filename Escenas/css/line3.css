@@ -5,8 +5,9 @@ body {
 }
 
 #timeline {
-    display: flex;
-    background-color: #031625;
+    display:            flex;
+    background-color:   #031625;
+
 }
 
 #timeline:hover .tl-item {
@@ -31,8 +32,8 @@ p.estipop {
     transform: translate3d(0, 0, 0);
     position: relative;
     width: 35%;
-    height: 70vh;
-    min-height: 600px;
+    height: 55vh;
+    /* min-height: 600px; */
     color: #fff;
     overflow: hidden;
     transition: width 0.5s ease;
